@@ -1,0 +1,7 @@
+Basic
+http://greenteapress.com/thinkpython2/html/index.html
+https://docs.python-guide.org/
+https://python.swaroopch.com/
+
+Advance
+https://runestone.academy/runestone/books/published/pythonds/index.html
